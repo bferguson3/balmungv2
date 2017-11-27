@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# balmungv2
-Balmung ported to Godot using the Godot-Tiled extension.
-
 # Tiled Map Importer
 
 This is a plugin for [Godot Engine](https://godotengine.org) to import
@@ -114,6 +110,3 @@ Whether or not to save the custom properties as metadata in the nodes and resour
 ## License
 
 [MIT License](LICENSE). Copyright (c) 2016 George Marques.
-=======
-
->>>>>>> 1448b991bfb0dacc3d9be70c6886ce482029ab0f
